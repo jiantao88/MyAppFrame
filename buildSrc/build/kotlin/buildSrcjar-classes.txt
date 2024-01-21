@@ -1,0 +1,1 @@
+/Users/zhangjiantao/Documents/android/MyAppFrame/buildSrc/build/classes/kotlin/main/Apps.class:/Users/zhangjiantao/Documents/android/MyAppFrame/buildSrc/build/classes/kotlin/main/Libs.class
