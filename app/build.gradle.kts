@@ -53,7 +53,9 @@ dependencies {
 
     implementation(Libs.coreKtx)
     implementation(Libs.lifecycleRuntimeKtx)
+    
     implementation(project(":Lib_framework"))
+    implementation(project(":Lib_Network"))
 
     implementation(Libs.activity_compose)
 
